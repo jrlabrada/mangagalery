@@ -1,0 +1,37 @@
+*{box-sizing: border-box;
+margin: 0;
+	padding: 0;}
+#este {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0000ff;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 19px;
+	text-transform: uppercase;
+	text-align: right;
+}
+body{
+	
+background-color: gray;
+
+}
+h2 {margin-bottom: 30px;}
+#p2
+{
+	font-size: 16px;
+}
+
+
+#box
+{
+	background-color: blue;
+	padding: 10px 10px 10px 10px; 
+	border: 3px solid black;
+
+	width: 400px;
+
+	
+}
+#content {background-color: #90EE90; //green
+}
+h1 {margin-bottom: 30px;}
